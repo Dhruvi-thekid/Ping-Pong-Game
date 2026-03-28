@@ -6,3 +6,5 @@ Like it have 3 cups and one of the cup have the ball in it;
 Than someone shuffles the cup and then you have to guess which cup might have the ball!
 
 Similar to that I created that with list having '0' as the ball in the elements.
+
+Moved to "pythin-mini-projects"
